@@ -219,7 +219,7 @@ this README is in:
 
     python run_tests.py
     
-This will test a few basic utilites and the XMLRPC system. If you wish
+This will test a few basic utilities and the XMLRPC system. If you wish
 to test the JSONRPC system, run the following:
     
     python run_tests.py --json
